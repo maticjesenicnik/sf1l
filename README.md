@@ -4,7 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 <br />
@@ -21,7 +20,7 @@
     <a href="https://github.com/maticjesenicnik/sf1l"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/maticjesenicnik/sf1l">View Demo</a>
+    <a href="https://sf1l.si">View Website</a>
     ·
     <a href="https://github.com/maticjesenicnik/sf1l/issues">Report Bug</a>
     ·
