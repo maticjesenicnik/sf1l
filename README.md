@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/maticjesenicnik/sf1l">
-    <img src="images/logo.png" alt="Logo" width="681" height="271">
+    <img src="public/logo.png" alt="Logo" width="681" height="271">
   </a>
 
 <h3 align="center">Slovenian Formula 1 e-League</h3>
