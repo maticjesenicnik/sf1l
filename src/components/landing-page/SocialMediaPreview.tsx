@@ -10,6 +10,7 @@ const SocialMediaPreview = ({ image, alt, url, width }: IProps) => {
     <a
       href={url}
       target="_blank"
+      rel="noreferrer"
       className="relative m-0 m-auto min-w-[300px] rounded-lg"
       style={{ maxWidth: width + "%" }}
     >
