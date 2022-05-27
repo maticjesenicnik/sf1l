@@ -14,16 +14,16 @@ const SocialMediaContainer = () => {
           width={27}
         />
         <SocialMediaPreview
-          image={"social-media/instagram.png"}
-          alt={"instagram"}
-          url={"https://www.instagram.com/slovenskaf1ligapc"}
-          width={27}
-        />
-        <SocialMediaPreview
           image={"social-media/discord.png"}
           alt={"discord"}
           url={"https://discord.com/invite/Y6tFGCwCyP"}
           width={42}
+        />
+        <SocialMediaPreview
+          image={"social-media/instagram.png"}
+          alt={"instagram"}
+          url={"https://www.instagram.com/slovenskaf1ligapc"}
+          width={27}
         />
       </div>
     </>
