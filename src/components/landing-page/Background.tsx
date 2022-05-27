@@ -5,10 +5,13 @@ const Background = (): JSX.Element => {
     <div
       className="fixed"
       style={{
-        backgroundImage: "url(/background.png)",
+        backgroundImage: "url(/checkered_flag.jpg)",
         width: "100vw",
         height: "100vh",
         overflow: "auto",
+        backgroundRepeat: "no-repeat",
+        backgroundPosition: "center",
+        backgroundSize: "cover",
       }}
     >
       <img
